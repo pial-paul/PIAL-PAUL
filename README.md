@@ -1,7 +1,7 @@
 
 <h3 align="center">Hi There👋!</h3>
 <h1 align="center"> This is PIAL PAUL</h1>
-<h3 align="center">A Undergraduate Student in CSE from Chittagong Independent University</h3>
+<h3 align="center">CSE Undergrad at CIU | GenAI Enthusiast</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pial-paul&label=Profile%20views&color=0e75b6&style=flat" alt="pial-paul" /> </p>
