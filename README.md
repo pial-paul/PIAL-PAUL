@@ -98,3 +98,7 @@
   <a href="https://medium.com/@pialpaul"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/bf361817-f91f-4fc8-b239-1a07e4b22d03"><img alt="Qwiklabs" title="PIAL PAUL Qwiklabs" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
  </p>
+
+<p align="center">
+	<b> “Code is like humor. When you have to explain it, it’s bad” </b> – Cory House
+</p>
