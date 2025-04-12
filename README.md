@@ -38,14 +38,25 @@
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-blue?logo=python&logoColor=yellow"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&logo=openjdk&logoColor=white"></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="#"><img alt="Assembly Script" src="https://img.shields.io/badge/assembly%20script-%23000000.svg?&logo=assemblyscript&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
 ## Frameworks and Libraries
 <p>
+   <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?&logo=anaconda&logoColor=white"></a>
+   <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?&logo=fastapi"></a>
+   <a href="#"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&logo=flask&logoColor=white"></a>
+   <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&logo=opencv&logoColor=white"></a>
+   <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB"></a>
+   <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white"></a>
+   <a href="#"><img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB"></a>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
 </p>
@@ -69,9 +80,10 @@
 ## Databases and Cloud hosting
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
+	<a href="#"><img alt="MongoBD" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white"></a>
+    	<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    	<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+    	<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
 </p> 
 
 ## Software and Tools
