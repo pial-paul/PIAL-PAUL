@@ -63,9 +63,10 @@
 
 ## Operating Systems
 <p>
-	<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"></a>
+	<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?&logo=android&logoColor=white"></a>
+	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black"></a>
+	<a href="#"><img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?&logo=macos&logoColor=F0F0F0"></a>
 	
 </p>
 
@@ -110,6 +111,8 @@
   <a href="https://medium.com/@pialpaul"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/bf361817-f91f-4fc8-b239-1a07e4b22d03"><img alt="Qwiklabs" title="PIAL PAUL Qwiklabs" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
  </p>
+ 
+---
 
 <p align="center">
 	<b> “Code is like humor. When you have to explain it, it’s bad” </b> – Cory House
