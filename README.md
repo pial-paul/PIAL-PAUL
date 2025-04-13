@@ -72,8 +72,9 @@
 
 ## Browsers
 <p>
-	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
+	<a href="#"><img alt="DuckDuckGo" src="https://img.shields.io/badge/duckduckgo-de5833?&logo=duckduckgo&logoColor=white"></a>
+	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
 	<a href="#"><img alt="Safari" src="https://img.shields.io/badge/Safari-FF1B2D?logo=Safari&logoColor=white"></a>
 	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
 </p>
@@ -81,10 +82,15 @@
 ## Databases and Cloud hosting
 
 <p>
+	<a href="#"><img alt="mySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?&logo=mysql&logoColor=white"></a>
 	<a href="#"><img alt="MongoBD" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white"></a>
     	<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    	<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    	<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
+    	<a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
+	    	<a href="#"><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?&logo=microsoftazure&logoColor=white"></a>
+    	<a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&logo=google-cloud&logoColor=white"></a>
+         	<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?&logo=vercel&logoColor=white)"></a>
+
+
 </p> 
 
 ## Software and Tools
